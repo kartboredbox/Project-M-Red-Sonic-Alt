@@ -1,2 +1,2 @@
-## Project M Red Sonic Costume V1.10
+## Project M Red Sonic Alt V1.0
 -Recolored all of Sonic's moves
